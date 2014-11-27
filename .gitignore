@@ -1,0 +1,7 @@
+# List of ignored files
+
+# This is a Mac file
+*.DS_Store
+
+# No swap files (vim)
+*.*swp
